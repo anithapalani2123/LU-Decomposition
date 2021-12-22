@@ -71,7 +71,7 @@ print(U)
 ```
 
 ## Output:
-![lu decomposition]()
+![lu decomposition](./output1.jpg)
 
 
 ## Result:
